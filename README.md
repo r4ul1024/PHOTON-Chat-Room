@@ -15,8 +15,6 @@ Terminal-based TCP chat room written in C++ using Boost.Asio (runs in the termin
 - Sends messages to the server.  
 - Uses multithreading to handle reading and writing simultaneously.  
 
-This project is a BETA version.
-
 ---
 
 ## Русский
@@ -33,5 +31,3 @@ This project is a BETA version.
 - Получает сообщения от сервера.  
 - Отправляет сообщения на сервер.  
 - Использует многопоточность для одновременного чтения и отправки сообщений.  
-
-Проект находится в версии BETA.
