@@ -2,7 +2,7 @@
 
 ## English
 
-**PHOTON-Chat-Room (BETA)** is a terminal-based TCP chat room written in C++ using Boost.Asio.
+terminal-based TCP chat room written in C++ using Boost.Asio.
 
 ### Server
 - TCP server that asynchronously accepts connections.  
@@ -21,7 +21,7 @@ This project is a BETA version.
 
 ## Русский
 
-**PHOTON-Chat-Room (BETA)** — это TCP чат-комната, работающая в терминале, написанная на C++ с использованием Boost.Asio.
+TCP чат-комната, работающая в терминале, написанная на C++ с использованием Boost.Asio.
 
 ### Сервер
 - TCP сервер, который асинхронно принимает подключения.  
