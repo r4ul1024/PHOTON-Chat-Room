@@ -1,9 +1,3 @@
-### Screenshot
-
-![PHOTON](images/.bash_logout.png)
-
----
-
 ## English
 
 # Minimal Console Messenger in C++ (Boost.Asio)
@@ -17,6 +11,12 @@
 - Start the client and enter the server’s IP address.  
 - Messages are typed as `TO WHOM MESSAGE`; currently, the server assigns the ID.  
 - Messages appear as `FROM WHO (green)` MESSAGE.  
+
+---
+
+### Screenshot
+
+![PHOTON](images/.bash_logout.png)
 
 ---
 
