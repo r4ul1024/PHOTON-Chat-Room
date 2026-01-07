@@ -1,33 +1,27 @@
-# PHOTON-Chat-Room (BETA)
+# E-Store Console Application
 
 ## English
 
-Terminal-based TCP chat room written in C++ using Boost.Asio (runs in the terminal).
+This is a console-based e-store project written in C++.
+Features:
+- Admin panel for adding and editing products
+- Buyer interface to browse products, manage cart, and place orders
+- Basic user registration and login system
+- Centralized data management via a Database class
+- Modular structure using OOP
 
-### Server
-- TCP server that asynchronously accepts connections.  
-- Reads messages from clients.  
-- Broadcasts messages to all connected clients.  
+### Screenshot
 
-### Client
-- Connects to the TCP server using IP.  
-- Reads messages from the server.  
-- Sends messages to the server.  
-- Uses multithreading to handle reading and writing simultaneously.  
+![E-Store Console Screenshot](images/Screenshot_2025-06-21_12-11-17.png)
 
 ---
 
 ## Русский
 
-Терминальная TCP чат-комната, работающая в консоли, написанная на C++ с использованием Boost.Asio.
-
-### Сервер
-- TCP сервер, который асинхронно принимает подключения.  
-- Читает сообщения от клиентов.  
-- Рассылает сообщения всем подключённым клиентам.  
-
-### Клиент
-- Подключается к TCP серверу, указывая IP.  
-- Получает сообщения от сервера.  
-- Отправляет сообщения на сервер.  
-- Использует многопоточность для одновременного чтения и отправки сообщений.  
+Консольный проект интернет-магазина на C++.
+Возможности:
+- Админ-панель для добавления и редактирования товаров
+- Интерфейс покупателя: просмотр товаров, корзина, оформление заказов
+- Простая регистрация и авторизация
+- Централизованное управление данными через класс `Database`
+- Модульная структура с использованием ООП
