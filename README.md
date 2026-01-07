@@ -1,6 +1,6 @@
 ## English
 
-#PHOTON
+# PHOTON
 
 # Minimal Console Messenger in C++ (Boost.Asio)
 
@@ -24,7 +24,7 @@
 
 ## Русский
 
-#PHOTON
+# PHOTON
 
 # Минимальный консольный мессенджер на C++ (Boost.Asio)
 
