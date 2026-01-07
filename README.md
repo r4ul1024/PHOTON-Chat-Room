@@ -12,7 +12,7 @@ Features:
 
 ### Screenshot
 
-![E-Store Console Screenshot](images/Screenshot_2025-06-21_12-11-17.png)
+![PHOTON](images/.bash_logout.png)
 
 ---
 
