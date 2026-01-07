@@ -1,5 +1,7 @@
 ## English
 
+#PHOTON
+
 # Minimal Console Messenger in C++ (Boost.Asio)
 
 **Structure:**  
@@ -21,6 +23,8 @@
 ---
 
 ## Русский
+
+#PHOTON
 
 # Минимальный консольный мессенджер на C++ (Boost.Asio)
 
