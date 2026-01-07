@@ -1,5 +1,3 @@
-## English
-
 # PHOTON
 
 # Minimal Console Messenger in C++ (Boost.Asio)
@@ -21,8 +19,6 @@
 ![PHOTON](images/.bash_logout.png)
 
 ---
-
-## Русский
 
 # PHOTON
 
